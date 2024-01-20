@@ -1,4 +1,9 @@
 <div align="center">
+<br />
+    <a href="https://frugalcodes.github.io/Trestour-App-LandingPage/" target="_blank">
+      <img src="https://drive.google.com/file/d/1DhTz0_kmon1z9Ive7Ku5Y0vUwXz0qJ5F/view?usp=sharing" alt="Project Banner">
+    </a>
+  <br />
   <div>
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
