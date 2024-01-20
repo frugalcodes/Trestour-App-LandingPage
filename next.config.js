@@ -4,7 +4,7 @@
 const nextConfig = {
     basePath: '/Trestour-App-LandingPage',
     assetPrefix: '/Trestour-App-LandingPage/',
-    output: 'export',
+    output: 'out',
     // Other configurations...
   }
   
