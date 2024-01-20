@@ -4,6 +4,8 @@ const nextConfig = {
   output: {
   
     target: 'static',
+    basePath: process.env.NEXT_PUBLIC_BASE_PATH || '',
+    target: 'experimental-serverless-trace',
   },
 };
 
