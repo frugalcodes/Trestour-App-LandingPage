@@ -1,7 +1,7 @@
 <div align="center">
 <br />
     <a href="https://frugalcodes.github.io/Trestour-App-LandingPage/" target="_blank">
-      <img src="readme-image" alt="Project Banner">
+      <img src="./public/readme-image.png" alt="Project Banner">
     </a>
   <br />
   <div>
