@@ -1,4 +1,10 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  // Add the new output configuration
+  output: {
+  
+    target: 'static',
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
