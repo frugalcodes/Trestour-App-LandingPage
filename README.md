@@ -8,7 +8,7 @@
   <h3 align="center">Trestour Travel Website</h3>
 
    <div align="center">
-     Preview this project: <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> 
+     Preview this project: <a href="https://frugalcodes.github.io/Trestour-App-LandingPage/" target="_blank"><b>Trestour</b></a> 
     </div>
 </div>
 
