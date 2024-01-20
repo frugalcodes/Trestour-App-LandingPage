@@ -63,8 +63,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/travel_ui_ux.git
-cd travel_ui_ux
+git https://github.com/frugalcodes/Trestour-App-LandingPage
+cd Trestour-App-LandingPage
 ```
 
 **Installation**
