@@ -6,7 +6,9 @@ const nextConfig = {
   output : 'export',
   distDir : 'dist',
   images: {
-    unoptimized: true,
+    loader: 'imgix',
+    path: 'https://frugalcodes.github.io/Trestour-App-LandingPage/', 
+    disableStaticImages: true,
   },
 };
 
