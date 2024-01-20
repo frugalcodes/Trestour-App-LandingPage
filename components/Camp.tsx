@@ -15,7 +15,7 @@ const CampSite = ({ backgroundImage, title, subtitle, peopleJoined }: CampProps)
       <div className="flexCenter gap-4">
         <div className="rounded-full bg-green-50 p-4">
           <Image
-            src="/folded-map.svg"
+            src="folded-map.svg"
             alt="map"
             width={28}
             height={28}
@@ -74,7 +74,7 @@ const Camp = () => {
           Commencing with the climbers' apprehension in unfamiliar climbing spots, the risk of losing one's way looms large. This is precisely why we are here for those embarking on a new adventure.
           </p>
           <Image 
-            src="/quote.svg"
+            src="quote.svg"
             alt="camp-2"
             width={186}
             height={219}
